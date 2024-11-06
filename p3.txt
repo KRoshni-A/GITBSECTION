@@ -1,3 +1,4 @@
 Hello
 Hello
 Git is merged
+Wednesday we have git class
