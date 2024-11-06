@@ -1,3 +1,4 @@
 git merge 
 git commit
 changes made
+commit with message learnt
