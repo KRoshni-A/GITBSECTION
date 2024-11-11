@@ -5,3 +5,4 @@ World
 today is Wednesday
 Tomorrow is Thursday
 Tomorrow is Friday
+Tomorrow is Tuesday
