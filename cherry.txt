@@ -4,3 +4,4 @@ Let's learn oneline command
 Git cherry pick
 Feature newline 1
 Feature newline 2
+Feature newline 3
