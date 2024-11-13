@@ -3,3 +3,4 @@ Along with revert command
 Let's learn oneline command
 Git cherry pick
 Feature newline 1
+Feature newline 2
