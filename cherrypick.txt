@@ -1,8 +1,12 @@
 Hello
 <<<<<<< HEAD
+<<<<<<< HEAD
 Everybody
 This is
 GIT lab
 In GIT lab
 =======
 >>>>>>> bc73a9b (First commit)
+=======
+Everybody
+>>>>>>> f98171b (First commit)
