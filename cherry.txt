@@ -1,8 +1,15 @@
 Hello We are learning Cherry pick in git
 Along with revert command
 Let's learn oneline command
+<<<<<<< HEAD
 New Line 1
 New line 2
 Git cherry pick
 Feature newline 1
 Feature newline 2
+=======
+Git cherry pick
+Feature newline 1
+Feature newline 2
+Feature newline 3
+>>>>>>> featurebranch
