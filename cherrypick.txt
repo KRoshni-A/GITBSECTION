@@ -1,7 +1,10 @@
 Hello
+<<<<<<< HEAD
 Everybody
 This is
 GIT lab
 In GIT lab
 Everybody
+=======
+>>>>>>> b745305 (First commit in Feature)
 This is Cherry
