@@ -3,6 +3,7 @@ Hello
 <<<<<<< HEAD
 Everybody
 This is
+<<<<<<< HEAD
 GIT lab
 In GIT lab
 =======
@@ -10,3 +11,5 @@ In GIT lab
 =======
 Everybody
 >>>>>>> f98171b (First commit)
+=======
+>>>>>>> dacc18f (Second commit)
